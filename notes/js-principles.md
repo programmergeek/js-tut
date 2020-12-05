@@ -1,6 +1,6 @@
 # Javascript Principles 
 
-Javascripts goes through code line by line executing it. This is called the "_Thread of Execution_". When the instructions are run, the data used in the program is stored in memory.
+Javascript goes through code line by line executing it. This is called the "_Thread of Execution_". When the instructions are run, the data used in the program is stored in memory.
 
 <br/>
 
